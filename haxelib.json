@@ -1,0 +1,19 @@
+{
+    "name": "react-native-parsed-text",
+    "license": "MIT",
+    "tags": [
+      "react",
+      "native",
+      "parsed",
+      "text"
+    ],
+    "classPath": "src",
+    "contributors": [
+      "tokom",
+      "zabojad"
+    ],
+    "releasenote": "Initial release",
+    "version": "0.0.22",
+    "url": "https://github.com/haxe-react/react-native-paarse-text",
+    "dependencies": {}
+  }
